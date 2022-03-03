@@ -9,7 +9,7 @@
 - 👯 I’m looking to connect, join & grow in a community.
 - 💬 Ask me about cyber-security, Networking, programming & web-development.
 - 🥅 My Goal for the coming months is to gain certifications and hands-on experience to land my first job.
-- 📫 How to reach me: [Twitter](https://www.twitter.com/kabir0x17) or [LinkedIn](https://www.linkedin.com/in/albertojdiaz)
+- 📫 How to reach me: [Twitter](https://www.linkedin.com/in/albertojdiaz) or [LinkedIn](https://www.linkedin.com/in/albertojdiaz)
 - ⚡ Fun fact: I love music, writing & gaming... starting to love Coding more and more ❤
 
 ### <h2 align="center">Tracking Graph📚</h2>
